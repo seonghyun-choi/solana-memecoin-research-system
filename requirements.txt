@@ -1,0 +1,2 @@
+# Python >= 3.10, SQLite with JSON1 support. Standard library only.
+# Running from project root needs no pip installation.

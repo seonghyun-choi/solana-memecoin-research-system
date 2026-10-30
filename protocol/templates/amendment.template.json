@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0.0",
+  "template_only": true,
+  "previous_protocol_version": "1.0.0",
+  "new_protocol_version": null,
+  "registered_at_utc": null,
+  "reason": null,
+  "previous_content_sha256": null,
+  "new_content_sha256": null,
+  "affected_future_data": null,
+  "retrospective_impact": null,
+  "contaminated_partitions": [],
+  "approval_record": null,
+  "history_overwrite_allowed": false
+}

@@ -1,0 +1,46 @@
+test_api_event_and_idempotency (test_foundation.FoundationTests.test_api_event_and_idempotency) ... ok
+test_api_event_snapshot_partition_mismatch_rejected (test_foundation.FoundationTests.test_api_event_snapshot_partition_mismatch_rejected) ... ok
+test_candidate_deduplication (test_foundation.FoundationTests.test_candidate_deduplication) ... ok
+test_composite_fk_blocks_partition_leak (test_foundation.FoundationTests.test_composite_fk_blocks_partition_leak) ... ok
+test_concurrent_candidate_and_discovery (test_foundation.FoundationTests.test_concurrent_candidate_and_discovery) ... ok
+test_config_versioning_canonical_and_immutable (test_foundation.FoundationTests.test_config_versioning_canonical_and_immutable) ... ok
+test_confirmed_provider_mapping_registration_blocked (test_foundation.FoundationTests.test_confirmed_provider_mapping_registration_blocked) ... ok
+test_database_creation_and_foreign_keys (test_foundation.FoundationTests.test_database_creation_and_foreign_keys) ... ok
+test_discovery_idempotency_and_conflict (test_foundation.FoundationTests.test_discovery_idempotency_and_conflict) ... ok
+test_error_taxonomy (test_foundation.FoundationTests.test_error_taxonomy) ... ok
+test_failed_migration_atomic_rollback (test_foundation.FoundationTests.test_failed_migration_atomic_rollback) ... ok
+test_filter_fail_never_terminates_research (test_foundation.FoundationTests.test_filter_fail_never_terminates_research) ... ok
+test_filter_failure_rolls_back (test_foundation.FoundationTests.test_filter_failure_rolls_back) ... ok
+test_forward_horizons_pass_and_skip_idempotent (test_foundation.FoundationTests.test_forward_horizons_pass_and_skip_idempotent) ... ok
+test_forward_record_append_only (test_foundation.FoundationTests.test_forward_record_append_only) ... ok
+test_forward_rejects_early_event_and_stale_snapshot (test_foundation.FoundationTests.test_forward_rejects_early_event_and_stale_snapshot) ... ok
+test_hash_corruption_detected (test_foundation.FoundationTests.test_hash_corruption_detected) ... ok
+test_invalid_mint_rejected_no_lowercasing (test_foundation.FoundationTests.test_invalid_mint_rejected_no_lowercasing) ... ok
+test_migration_downgrade_rejected (test_foundation.FoundationTests.test_migration_downgrade_rejected) ... ok
+test_migration_tamper_detected (test_foundation.FoundationTests.test_migration_tamper_detected) ... ok
+test_migration_upgrade_and_rerun (test_foundation.FoundationTests.test_migration_upgrade_and_rerun) ... ok
+test_multiple_discovery_events (test_foundation.FoundationTests.test_multiple_discovery_events) ... ok
+test_naive_time_rejected (test_foundation.FoundationTests.test_naive_time_rejected) ... ok
+test_no_secret_endpoint_or_known_payload (test_foundation.FoundationTests.test_no_secret_endpoint_or_known_payload) ... ok
+test_online_backup_preserves_raw (test_foundation.FoundationTests.test_online_backup_preserves_raw) ... ok
+test_parser_error_saved_without_inventing_fields (test_foundation.FoundationTests.test_parser_error_saved_without_inventing_fields) ... ok
+test_parser_version_mismatch_rejected (test_foundation.FoundationTests.test_parser_version_mismatch_rejected) ... ok
+test_partition_identity_cannot_move (test_foundation.FoundationTests.test_partition_identity_cannot_move) ... ok
+test_payload_exact_bytes_hash (test_foundation.FoundationTests.test_payload_exact_bytes_hash) ... ok
+test_pipeline_versioning (test_foundation.FoundationTests.test_pipeline_versioning) ... ok
+test_provider_adapters_unconfirmed_no_normalization (test_foundation.FoundationTests.test_provider_adapters_unconfirmed_no_normalization) ... ok
+test_raw_snapshot_immutable_sql (test_foundation.FoundationTests.test_raw_snapshot_immutable_sql) ... ok
+test_real_adapter_replay_skeleton_offline (test_foundation.FoundationTests.test_real_adapter_replay_skeleton_offline) ... ok
+test_replace_cannot_bypass_immutability (test_foundation.FoundationTests.test_replace_cannot_bypass_immutability) ... ok
+test_replay_idempotency (test_foundation.FoundationTests.test_replay_idempotency) ... ok
+test_replay_new_config_preserves_old (test_foundation.FoundationTests.test_replay_new_config_preserves_old) ... ok
+test_replay_new_parser_preserves_raw_and_old_result (test_foundation.FoundationTests.test_replay_new_parser_preserves_raw_and_old_result) ... ok
+test_same_source_multiple_events_and_out_of_order (test_foundation.FoundationTests.test_same_source_multiple_events_and_out_of_order) ... ok
+test_snapshot_idempotency_and_new_capture (test_foundation.FoundationTests.test_snapshot_idempotency_and_new_capture) ... ok
+test_unconfirmed_parse_no_live_calls_even_with_valid_looking_body (test_foundation.FoundationTests.test_unconfirmed_parse_no_live_calls_even_with_valid_looking_body) ... ok
+test_utc_normalization (test_foundation.FoundationTests.test_utc_normalization) ... ok
+
+----------------------------------------------------------------------
+Ran 41 tests in 0.659s
+
+OK

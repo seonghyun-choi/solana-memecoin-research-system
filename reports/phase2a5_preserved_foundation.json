@@ -1,0 +1,18 @@
+{
+  "unchanged_files": {
+    "data/foundation.sqlite3": "60979e79cbd2ae266e6214b64c6fd7ee2bfbb91e51e0cc7991d5a8e5c6d00a2d",
+    "qfoundation/__init__.py": "541cdedc22e5941193a9e063b7cc0b1d60f971b9bd9385dd0a67411ad2714f06",
+    "qfoundation/__main__.py": "ee4cc7186787158750d4a38ad71950977d47bbcb3b41612d8ce19bb868562318",
+    "qfoundation/adapters.py": "59a39bb0baa6a71e32c338de1d0cee731562faeee83fa9ac6b4235dd458aca4e",
+    "qfoundation/codec.py": "0403f4d8023376956efebe95548d0a3a316a6cb8234e869ee4ff1fd0a797ad88",
+    "qfoundation/db.py": "1651634121a2717506b8a9a1e326d80386b6ee1508d16b9f2c5c348df69b7460",
+    "qfoundation/errors.py": "3590f08d3db40841d3431cc9778f616e4a6aa98d59311facca1bf026ae809947",
+    "qfoundation/migrations/001_foundation.sql": "9c2108a6d364f6a15f5106a40bb6555ab1b3dc589fa0e6ca74731f922a08e2dd",
+    "qfoundation/migrations/002_integrity.sql": "7534b912e9f102cf0e6b25de6a18b567d9d883b0a49a263be1dd4e69a99859c1",
+    "qfoundation/replay.py": "63588dbce5d3f379714148bbcb4c8a75c253b0f303e9005ed273d2445f7f0854",
+    "qfoundation/store.py": "8fd174b3060c90478319a082162a77be302dc2b6aba562e61235f1f26a18b423",
+    "qfoundation/time_model.py": "c43b4d0a609f664ee068765bc8db27a4fe787f7c706159afe7f8af93b95789d4"
+  },
+  "migration_added": false,
+  "existing_db_sha256": "60979e79cbd2ae266e6214b64c6fd7ee2bfbb91e51e0cc7991d5a8e5c6d00a2d"
+}

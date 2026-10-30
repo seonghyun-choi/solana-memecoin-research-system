@@ -1,0 +1,26 @@
+{
+  "integrity_check": "ok",
+  "foreign_key_check": [],
+  "row_counts": {
+    "partitions": 3,
+    "candidates": 0,
+    "candidate_discoveries": 0,
+    "raw_api_snapshots": 0,
+    "market_observations": 0,
+    "filter_results": 0,
+    "social_observations": 0,
+    "decisions": 0,
+    "forward_observations": 0,
+    "api_events": 0,
+    "config_versions": 0,
+    "pipeline_versions": 0,
+    "parser_versions": 0,
+    "replay_runs": 0,
+    "idempotency_keys": 0,
+    "schema_migrations": 2
+  },
+  "migration_count": 2,
+  "tests_passed": 41,
+  "tests_failed": 0,
+  "evidence": "offline synthetic tests only; no API calls"
+}

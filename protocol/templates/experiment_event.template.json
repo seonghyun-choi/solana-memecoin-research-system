@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "template_only": true,
+  "ledger_event_id": null,
+  "sequence": null,
+  "event_type": "EXPERIMENT_REGISTERED",
+  "created_at_us": null,
+  "available_at_us": null,
+  "actor": null,
+  "reason": null,
+  "research_cycle_id": null,
+  "experiment_id": null,
+  "run_id": null,
+  "protocol_version": "1.0.0",
+  "protocol_sha256": null,
+  "previous_event_sha256": null,
+  "event_sha256": null,
+  "supersedes_event_id": null,
+  "payload": {
+    "hypothesis": null,
+    "family_id": null,
+    "dataset_partition": null,
+    "dataset_manifest_hash": null,
+    "features": null,
+    "filter_config": null,
+    "strategy_version": null,
+    "planned_evaluation_count": null,
+    "number_of_tests_before": null,
+    "result": null,
+    "decision": null,
+    "notes": null
+  }
+}

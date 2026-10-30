@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0.0",
+  "protocol_version": "1.0.0",
+  "status": "BLOCKED_UNRESOLVED",
+  "required_before_activation": {
+    "source_registry_manifest_hash": null,
+    "primary_independent_source_families": null,
+    "source_scope_and_coverage_audit": null,
+    "token_type_classifier_version": null,
+    "capacity_policy": null,
+    "partition_calendar_boundaries": null,
+    "partition_buffer_rule_and_duration": null,
+    "partition_freeze_hash": null,
+    "oos_seal_verification": null,
+    "provider_parser_contract_hashes": null,
+    "provider_clock_semantics": null,
+    "baseline_max_delay_us": null,
+    "forward_tolerance_us_by_horizon_channel": null,
+    "fixed_retry_offsets_us_by_channel": null,
+    "stale_ttl_us_by_provider_field": null,
+    "allowed_acquisition_proxy_features": null,
+    "primary_base_currency": null,
+    "fixed_quote_notional": null,
+    "cost_manifest_hash": null,
+    "rug_parameters_and_coverage": null,
+    "finer_grid_cadence_and_sampling": null,
+    "sample_precision_power_plan": null,
+    "primary_endpoint_and_family": null,
+    "inference_and_multiplicity_plan": null,
+    "approval_record": null
+  },
+  "fixed_horizons_seconds": [
+    600,
+    1800,
+    3600,
+    10800,
+    21600,
+    43200,
+    86400
+  ],
+  "no_implicit_defaults": true,
+  "template_only": true
+}
